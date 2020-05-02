@@ -1,0 +1,10 @@
+-- @Kwanghyeon
+-- Category : GROUP BY
+-- 테스트명 : 입양 시각 구하기(1)
+-- 코드를 입력하세요
+SELECT DATE_FORMAT(DATETIME, '%H'), COUNT(DATE_FORMAT(DATETIME, '%H'))
+FROM ANIMAL_OUTS
+WHERE DATE_FORMAT(DATETIME, '%H') >= 9
+  AND DATE_FORMAT(DATETIME, '%H') < 20
+GROUP BY DATE_FORMAT(DATETIME, '%H')
+;
