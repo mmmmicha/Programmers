@@ -1,4 +1,4 @@
-package com.test;
+package com.test.highScoreKit.hash.level3;
 
 import java.util.*;
 
@@ -8,10 +8,9 @@ import java.util.*;
  * @KwangHyeon
  * Test 2, 15 통과 못함.
  * 
- * 
  * */
 
-class Best_Album 
+class BestAlbum 
 {
     public int[] solution(String[] genres, int[] plays) 
     {
