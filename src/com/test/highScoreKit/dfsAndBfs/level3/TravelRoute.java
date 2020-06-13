@@ -1,17 +1,17 @@
-package com.test;
+package com.test.highScoreKit.dfsAndBfs.level3;
 
 import java.util.*;
 
 /*
- * 테스트명 : 여행경로
+ * 테스트 명 : 여행 경로
  * 
- * @ KwangHyeon
- * 티켓을 전체 다 사용하지 못하고 있음.
+ * @KwangHyeon
  * 
+ * 미해결
  * 
  * */
 
-class Tour_Routes 
+class TravelRoute 
 {
     public static String[] solution(String[][] tickets) 
     {
@@ -31,7 +31,7 @@ class Tour_Routes
                 if(tickets[i][0].equals(tickets[j][0]))
                     d.setSide(tickets[j][1]);
             }
-            System.out.println("ticket : " + tickets[i][0] + ", side size : " + d.side.size());
+            //System.out.println("ticket : " + tickets[i][0] + ", side size : " + d.side.size());
             world.put(tickets[i][0], d);
         }
         
@@ -65,12 +65,6 @@ class Tour_Routes
         return answer;
     }
     
-    public static void main(String[] args)
-    {
-    	String[][] tickets = {{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}};
-    	
-    	System.out.println(solution(tickets));
-    }
 }
 
 class Defi
