@@ -14,11 +14,11 @@
 
   ## SUM,MAX,MIN
     - level 1
-      - [최댓값 구하기]
+      - [최댓값 구하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SUM%2CMAX%2CMIN/level%201/Test8.sql)
     - level 2
-      - [최솟값 구하기]
-      - [동물 수 구하기]
-      - [중복 제거하기]
+      - [최솟값 구하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SUM%2CMAX%2CMIN/level%202/Test9.sql)
+      - [동물 수 구하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SUM%2CMAX%2CMIN/level%202/Test10.sql)
+      - [중복 제거하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SUM%2CMAX%2CMIN/level%202/Test11.sql)
       
   ## GROUP BY
     - level 2
