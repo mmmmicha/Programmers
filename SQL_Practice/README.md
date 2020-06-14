@@ -4,13 +4,13 @@
 
   ## SELECT
     - level 1
-      - [모든 레코드 조회하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test01.sql)
-      - [역순 정렬하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test02.sql)
-      - [아픈 동물 찾기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test03.sql)
-      - [어린 동물 찾기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test04.sql)
-      - [동물의 아이디와 이름](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test05.sql)
-      - [여러 기준으로 정렬하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test06.sql)
-      - [상위 n개 레코드](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test07.sql)
+      - [모든 레코드 조회하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test1.sql)
+      - [역순 정렬하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test2.sql)
+      - [아픈 동물 찾기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test3.sql)
+      - [어린 동물 찾기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test4.sql)
+      - [동물의 아이디와 이름](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test5.sql)
+      - [여러 기준으로 정렬하기](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test6.sql)
+      - [상위 n개 레코드](https://github.com/wjdrhkd456/Programmers/tree/master/SQL_Practice/SELECT/level%201/Test7.sql)
 
   ## SUM,MAX,MIN
     - level 1
